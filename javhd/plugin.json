@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "JavHD",
+    "author": "ustaezav",
+    "version": 6,
+    "source": "https://javhdz.la",
+    "description": "Xem phim JAV HD online. Web thường xuyên đổi domain, nên search google và sửa domain trong config nếu không truy cập được.",
+    "locale": "vi",
+    "regexp": "(https?://)?(www\\.)?javhdz?\\.([a-z]{2,})/.*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://javhdz.la",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

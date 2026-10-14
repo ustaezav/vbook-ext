@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "stripchat",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://stripchat.global",
+    "description": "Xem live stream Stripchat.",
+    "locale": "en",
+    "regexp": "(https?://)?(www\\.)?stripchat\\.([a-z]{2,})/[^/?#]+.*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "action": "action.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://stripchat.global",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

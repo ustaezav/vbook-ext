@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "name": "JavTrailers Shorts",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://javtrailers.com",
+    "description": "Xem video ngắn JAV (shorts) từ JavTrailers.",
+    "locale": "en",
+    "regexp": "(https?://)?(www\\.)?javtrailers\\.com/shorts/[^/?#]+.*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://javtrailers.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "TOKEN": {
+      "title": "API Token",
+      "subtitle": "Để trống = tự lấy từ trang",
+      "default": "",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

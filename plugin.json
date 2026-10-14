@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "author": "ustaezav",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "AVDB",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/avdb/plugin.zip",
+      "version": 2,
+      "source": "https://avdbapi.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/avdb/icon.png",
+      "description": "Xem phim JAV online - AVDB API (470k+ phim)",
+      "type": "video",
+      "locale": "vi",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Bunkr Videos",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/bunkr-videos/plugin.zip",
+      "version": 1,
+      "source": "https://balbums.st",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/bunkr-videos/icon.png",
+      "description": "Xem video từ các album Bunkr",
+      "type": "video",
+      "locale": "vi",
+      "tag": "nsfw"
+    },
+    {
+      "name": "JavHD",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javhd/plugin.zip",
+      "version": 6,
+      "source": "https://javhdz.la",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javhd/icon.png",
+      "description": "Xem phim JAV HD online. Web thường xuyên đổi domain, nên search google và sửa domain trong config nếu không truy cập được.",
+      "type": "video",
+      "locale": "vi",
+      "tag": "nsfw"
+    },
+    {
+      "name": "JavTrailers Shorts",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/plugin.zip",
+      "version": 1,
+      "source": "https://javtrailers.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/icon.png",
+      "description": "Xem video ngắn JAV (shorts) từ JavTrailers.",
+      "type": "video",
+      "locale": "en",
+      "tag": "nsfw"
+    },
+    {
+      "name": "misskon",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/misskon/plugin.zip",
+      "version": 1,
+      "source": "https://misskon.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/misskon/icon.png",
+      "description": "Xem những hình ảnh nóng bỏng tại Misskon",
+      "type": "comic",
+      "locale": "en_US",
+      "tag": "nsfw"
+    },
+    {
+      "name": "sinodan",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sinodan/plugin.zip",
+      "version": 3,
+      "source": "http://www.sinodan.link",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sinodan/icon.png",
+      "description": "Đọc truyện trên trang sinodan",
+      "type": "chinese_novel",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "stripchat",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/stripchat/plugin.zip",
+      "version": 1,
+      "source": "https://stripchat.global",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/stripchat/icon.png",
+      "description": "Xem live stream Stripchat.",
+      "type": "video",
+      "locale": "en",
+      "tag": "nsfw"
+    }
+  ]
+}

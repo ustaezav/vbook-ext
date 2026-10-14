@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "AVDB",
+    "author": "ustaezav",
+    "version": 2,
+    "source": "https://avdbapi.com",
+    "description": "Xem phim JAV online - AVDB API (470k+ phim)",
+    "locale": "vi",
+    "regexp": "(https?://)?(www\\.)?avdbapi\\.com/.+",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://avdbapi.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
