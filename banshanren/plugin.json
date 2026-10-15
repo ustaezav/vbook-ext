@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Banshanren",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.banshanren.com",
+    "description": "Đọc truyện chữ tiếng Trung từ 搬山人小说网 (banshanren.com)",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?banshanren\\.com/.+",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.banshanren.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

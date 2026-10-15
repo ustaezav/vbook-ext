@@ -17,6 +17,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Banshanren",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/banshanren/plugin.zip",
+      "version": 1,
+      "source": "https://www.banshanren.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/banshanren/icon.png",
+      "description": "Đọc truyện chữ tiếng Trung từ 搬山人小说网 (banshanren.com)",
+      "type": "novel",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Bunkr Videos",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/bunkr-videos/plugin.zip",

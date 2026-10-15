@@ -26,8 +26,8 @@
       "format": "text"
     },
     "PREVIEW_THUMB": {
-      "title": "Xem trước bìa",
-      "subtitle": "Tải ảnh đầu của mỗi bài làm bìa trong danh sách (chậm hơn). HIỆN CHƯA HỖ TRỢ.",
+      "title": "Xem trước bìa (CẢNH BÁO: load chậm hơn)",
+      "subtitle": "Tải ảnh đầu của mỗi bài làm bìa trong danh sách",
       "default": "false",
       "mode": "toggle"
     }
