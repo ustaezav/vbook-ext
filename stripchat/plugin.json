@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://stripchat.global",
     "description": "Xem live stream Stripchat.",
-    "locale": "en",
+    "locale": "vi_VN",
     "regexp": "(https?://)?(www\\.)?stripchat\\.([a-z]{2,})/[^/?#]+.*",
     "type": "video",
     "nsfw": true

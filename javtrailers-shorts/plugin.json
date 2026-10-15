@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://javtrailers.com",
     "description": "Xem video ngắn JAV (shorts) từ JavTrailers.",
-    "locale": "en",
+    "locale": "en_US",
     "regexp": "(https?://)?(www\\.)?javtrailers\\.com/shorts/[^/?#]+.*",
     "type": "video",
     "nsfw": true

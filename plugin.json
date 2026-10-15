@@ -13,7 +13,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/avdb/icon.png",
       "description": "Xem phim JAV online - AVDB API (470k+ phim)",
       "type": "video",
-      "locale": "vi",
+      "locale": "vi_VN",
       "tag": "nsfw"
     },
     {
@@ -25,7 +25,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/bunkr-videos/icon.png",
       "description": "Xem video từ các album Bunkr",
       "type": "video",
-      "locale": "vi",
+      "locale": "vi_VN",
       "tag": "nsfw"
     },
     {
@@ -37,7 +37,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javhd/icon.png",
       "description": "Xem phim JAV HD online. Web thường xuyên đổi domain, nên search google và sửa domain trong config nếu không truy cập được.",
       "type": "video",
-      "locale": "vi",
+      "locale": "vi_VN",
       "tag": "nsfw"
     },
     {
@@ -49,7 +49,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/icon.png",
       "description": "Xem video ngắn JAV (shorts) từ JavTrailers.",
       "type": "video",
-      "locale": "en",
+      "locale": "en_US",
       "tag": "nsfw"
     },
     {
@@ -85,7 +85,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/stripchat/icon.png",
       "description": "Xem live stream Stripchat.",
       "type": "video",
-      "locale": "en",
+      "locale": "vi_VN",
       "tag": "nsfw"
     }
   ]

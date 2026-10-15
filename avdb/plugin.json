@@ -5,7 +5,7 @@
     "version": 2,
     "source": "https://avdbapi.com",
     "description": "Xem phim JAV online - AVDB API (470k+ phim)",
-    "locale": "vi",
+    "locale": "vi_VN",
     "regexp": "(https?://)?(www\\.)?avdbapi\\.com/.+",
     "type": "video",
     "nsfw": true
