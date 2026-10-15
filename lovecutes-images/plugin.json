@@ -2,7 +2,7 @@
   "metadata": {
     "name": "LoveCutes Images",
     "author": "ustaezav",
-    "version": 1,
+    "version": 2,
     "source": "https://www.lovecutes.com",
     "regexp": "(https?://)?(www\\.)?lovecutes\\.com/vi/article/\\d+/?",
     "description": "Đọc bộ ảnh người đẹp, cosplay, AI beauty trên LoveCutes",
