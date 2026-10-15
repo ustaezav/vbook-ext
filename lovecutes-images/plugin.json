@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "LoveCutes Images",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.lovecutes.com",
+    "regexp": "(https?://)?(www\\.)?lovecutes\\.com/vi/article/\\d+/?",
+    "description": "Đọc bộ ảnh người đẹp, cosplay, AI beauty trên LoveCutes",
+    "locale": "vi",
+    "type": "comic",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.lovecutes.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

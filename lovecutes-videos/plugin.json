@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "LoveCutes Videos",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.lovecutes.com",
+    "regexp": "(https?://)?(www\\.)?lovecutes\\.com/vi/article/\\d+/?",
+    "description": "Xem video hậu trường trong các bộ ảnh trên LoveCutes",
+    "locale": "vi",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.lovecutes.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

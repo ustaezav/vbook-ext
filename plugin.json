@@ -53,6 +53,30 @@
       "tag": "nsfw"
     },
     {
+      "name": "LoveCutes Images",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/lovecutes-images/plugin.zip",
+      "version": 1,
+      "source": "https://www.lovecutes.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/lovecutes-images/icon.png",
+      "description": "Đọc bộ ảnh người đẹp, cosplay, AI beauty trên LoveCutes",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "LoveCutes Videos",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/lovecutes-videos/plugin.zip",
+      "version": 1,
+      "source": "https://www.lovecutes.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/lovecutes-videos/icon.png",
+      "description": "Xem video hậu trường trong các bộ ảnh trên LoveCutes",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "misskon",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/misskon/plugin.zip",
