@@ -29,6 +29,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Cool18 GIF",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-images/plugin.zip",
+      "version": 1,
+      "source": "https://www.cool18.com/bbs",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-images/icon.png",
+      "description": "Xem ảnh động GIF từ diễn đàn 性趣贴图 (cool18.com)",
+      "type": "comic",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Cool18 Novels",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-novels/plugin.zip",

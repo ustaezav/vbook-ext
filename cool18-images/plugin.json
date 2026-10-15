@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "Cool18 GIF",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.cool18.com/bbs",
+    "description": "Xem ảnh động GIF từ diễn đàn 性趣贴图 (cool18.com)",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs/index\\.php\\?.*act=threadview.*",
+    "type": "comic",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.cool18.com/bbs",
+      "mode": "input",
+      "format": "text"
+    },
+    "PREVIEW_THUMB": {
+      "title": "Xem trước bìa",
+      "subtitle": "Tải ảnh đầu của mỗi bài làm bìa trong danh sách (chậm hơn). HIỆN CHƯA HỖ TRỢ.",
+      "default": "false",
+      "mode": "toggle"
+    }
+  }
+}
