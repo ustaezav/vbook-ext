@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "name": "Cool18 GIF",
+    "name": "Cool18 Images",
     "author": "ustaezav",
     "version": 1,
     "source": "https://www.cool18.com/bbs",
-    "description": "Xem ảnh động GIF từ diễn đàn 性趣贴图 (cool18.com)",
+    "description": "Xem ảnh và GIF từ diễn đàn 性趣贴图 (cool18.com)",
     "locale": "zh_CN",
     "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs/index\\.php\\?.*act=threadview.*",
     "type": "comic",
