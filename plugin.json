@@ -29,6 +29,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Cool18 Novels",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-novels/plugin.zip",
+      "version": 1,
+      "source": "https://www.cool18.com/bbs4",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-novels/icon.png",
+      "description": "Đọc truyện chữ tiếng Trung từ diễn đàn 禁忌书屋 (cool18.com)",
+      "type": "novel",
+      "locale": "zh-CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "JavHD",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javhd/plugin.zip",
@@ -44,7 +56,7 @@
       "name": "JavTrailers Shorts",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://javtrailers.com",
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/icon.png",
       "description": "Xem video ngắn JAV (shorts) từ JavTrailers.",

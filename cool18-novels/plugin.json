@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Cool18 Novels",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.cool18.com/bbs4",
+    "description": "Đọc truyện chữ tiếng Trung từ diễn đàn 禁忌书屋 (cool18.com)",
+    "locale": "zh-CN",
+    "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs4/index\\.php\\?.*act=(threadview|bookview).*",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.cool18.com/bbs4",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
