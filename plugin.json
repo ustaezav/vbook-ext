@@ -77,6 +77,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "JavML",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javml/plugin.zip",
+      "version": 1,
+      "source": "https://javml.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javml/icon.png",
+      "description": "Xem phim JAV online chất lượng cao từ javml.com. Tự đổi fingerprint cookie mỗi lần phát để bỏ qua giới hạn xem thử.",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "JavTrailers Shorts",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javtrailers-shorts/plugin.zip",
