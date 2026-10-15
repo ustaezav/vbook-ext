@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Cool18 Images",
     "author": "ustaezav",
-    "version": 1,
+    "version": 2,
     "source": "https://www.cool18.com/bbs",
     "description": "Xem ảnh và GIF từ diễn đàn 性趣贴图 (cool18.com)",
     "locale": "zh_CN",
-    "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs/index\\.php\\?.*act=threadview.*",
+    "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs(2|6)?/index\\.php\\?.*act=threadview.*",
     "type": "comic",
     "nsfw": true
   },
