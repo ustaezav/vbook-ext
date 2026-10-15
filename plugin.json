@@ -25,7 +25,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/bunkr-videos/icon.png",
       "description": "Xem video từ các album Bunkr",
       "type": "video",
-      "locale": "vi_VN",
+      "locale": "global",
       "tag": "nsfw"
     },
     {
@@ -37,7 +37,7 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-novels/icon.png",
       "description": "Đọc truyện chữ tiếng Trung từ diễn đàn 禁忌书屋 (cool18.com)",
       "type": "novel",
-      "locale": "zh-CN",
+      "locale": "zh_CN",
       "tag": "nsfw"
     },
     {

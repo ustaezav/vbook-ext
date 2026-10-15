@@ -6,7 +6,7 @@
     "source": "https://www.lovecutes.com",
     "regexp": "(https?://)?(www\\.)?lovecutes\\.com/vi/article/\\d+/?",
     "description": "Đọc bộ ảnh người đẹp, cosplay, AI beauty trên LoveCutes",
-    "locale": "vi",
+    "locale": "vi_VN",
     "type": "comic",
     "nsfw": true
   },

@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://www.cool18.com/bbs4",
     "description": "Đọc truyện chữ tiếng Trung từ diễn đàn 禁忌书屋 (cool18.com)",
-    "locale": "zh-CN",
+    "locale": "zh_CN",
     "regexp": "(https?://)?(www\\.)?cool18\\.com/bbs4/index\\.php\\?.*act=(threadview|bookview).*",
     "type": "novel",
     "nsfw": true

@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://balbums.st",
     "description": "Xem video từ các album Bunkr",
-    "locale": "vi_VN",
+    "locale": "global",
     "regexp": "(https?://)?(www\\.)?((balbums\\.st|bunkr-albums\\.io)/.*|bunkr\\.[a-z]+/a/.+)",
     "type": "video",
     "nsfw": true
