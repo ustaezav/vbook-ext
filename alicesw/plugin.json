@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "name": "AliceSW",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.alicesw.com",
+    "description": "爱丽丝书屋 (ALICESW) — đọc truyện chữ tiếng Trung.",
+    "locale": "zh-CN",
+    "regexp": "(https?://)?(www\\.)?(alicesw\\.(com|tw)|asw5\\.cc)/(novel|book)/.+",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://www.alicesw.com",
+      "values": ["https://www.alicesw.com", "https://alicesw.tw"],
+      "mode": "select"
+    },
+    "ORDER": {
+      "title": "Sắp xếp theo",
+      "subtitle": "Áp dụng cho danh sách thể loại, tag và tìm kiếm",
+      "default": "Cập nhật",
+      "values": ["Cập nhật", "Số chữ", "Lượt xem"],
+      "mode": "select"
+    },
+    "ORDER_DIR": {
+      "title": "Thứ tự sắp xếp",
+      "default": "Giảm dần",
+      "values": ["Giảm dần", "Tăng dần"],
+      "mode": "select"
+    }
+  }
+}

@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "AliceSW",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/alicesw/plugin.zip",
+      "version": 1,
+      "source": "https://www.alicesw.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/alicesw/icon.png",
+      "description": "爱丽丝书屋 (ALICESW) — đọc truyện chữ tiếng Trung.",
+      "type": "novel",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "AVDB",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/avdb/plugin.zip",
