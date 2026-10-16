@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "91Porna Shorts",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://91porna.com",
+    "regexp": "(https?://)?(www\\.)?91porna\\.com/melonshort/video/[^/?#]+.*",
+    "description": "Xem video ngắn (91短视频) từ 91porna.",
+    "locale": "zh_CN",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "subtitle": "Đổi khi 91porna đổi tên miền phụ",
+      "default": "https://91porna.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

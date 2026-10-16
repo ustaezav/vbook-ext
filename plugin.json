@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "91Porna Shorts",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/91porna-shorts/plugin.zip",
+      "version": 1,
+      "source": "https://91porna.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/91porna-shorts/icon.png",
+      "description": "Xem video ngắn (91短视频) từ 91porna.",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "AliceSW",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/alicesw/plugin.zip",
