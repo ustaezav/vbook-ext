@@ -8,10 +8,10 @@
       "name": "AliceSW",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/alicesw/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://www.alicesw.com",
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/alicesw/icon.png",
-      "description": "爱丽丝书屋 (ALICESW) — đọc truyện chữ tiếng Trung.",
+      "description": "Đọc truyện chữ tiếng Trung trên AliceSW.",
       "type": "novel",
       "locale": "zh_CN",
       "tag": "nsfw"

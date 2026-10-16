@@ -2,10 +2,10 @@
   "metadata": {
     "name": "AliceSW",
     "author": "ustaezav",
-    "version": 1,
+    "version": 2,
     "source": "https://www.alicesw.com",
-    "description": "爱丽丝书屋 (ALICESW) — đọc truyện chữ tiếng Trung.",
-    "locale": "zh-CN",
+    "description": "Đọc truyện chữ tiếng Trung trên AliceSW.",
+    "locale": "zh_CN",
     "regexp": "(https?://)?(www\\.)?(alicesw\\.(com|tw)|asw5\\.cc)/(novel|book)/.+",
     "type": "novel",
     "nsfw": true
