@@ -195,6 +195,18 @@
       "type": "video",
       "locale": "vi_VN",
       "tag": "nsfw"
+    },
+    {
+      "name": "XBookCN",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/xbookcn/plugin.zip",
+      "version": 1,
+      "source": "https://www.xbookcn.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/xbookcn/icon.png",
+      "description": "Đọc truyện chữ tiếng Trung trên XBookCN.",
+      "type": "novel",
+      "locale": "zh_CN",
+      "tag": "nsfw"
     }
   ]
 }

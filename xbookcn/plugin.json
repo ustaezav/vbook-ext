@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "XBookCN",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.xbookcn.com",
+    "description": "Đọc truyện chữ tiếng Trung trên XBookCN.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.|book\\.|blog\\.)?xbookcn\\.(net|com)/.+",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "subtitle": "xbookcn.com truy cập được; xbookcn.net bị Cloudflare chặn với ứng dụng",
+      "default": "https://www.xbookcn.com",
+      "values": ["https://www.xbookcn.com", "https://xbookcn.net"],
+      "mode": "select"
+    },
+    "thread_num": 2,
+    "delay": 500
+  }
+}
