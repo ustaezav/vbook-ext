@@ -91,10 +91,10 @@
     {
       "name": "idofap",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idolfap/plugin.zip",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idofap/plugin.zip",
       "version": 1,
       "source": "",
-      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idolfap/icon.png",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idofap/icon.png",
       "description": "Video ngắn và ảnh, tự config",
       "type": "video",
       "locale": "en_US",
