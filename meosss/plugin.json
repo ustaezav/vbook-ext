@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "Meosss",
+    "author": "ustaezav",
+    "version": 2,
+    "source": "https://meosss.com",
+    "description": "Đọc truyện tranh 18+ trên Meosss",
+    "locale": "vi",
+    "regexp": "(https?://)?(www\\.)?meosss\\.com/truyen/.+",
+    "type": "comic",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://meosss.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 500
+  }
+}

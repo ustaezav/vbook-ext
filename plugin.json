@@ -173,6 +173,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Meosss",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/meosss/plugin.zip",
+      "version": 2,
+      "source": "https://meosss.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/meosss/icon.png",
+      "description": "Đọc truyện tranh 18+ trên Meosss",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "misskon",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/misskon/plugin.zip",
@@ -205,6 +217,30 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/stripchat/icon.png",
       "description": "Xem live stream Stripchat.",
       "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "TruyenC",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyenc/plugin.zip",
+      "version": 1,
+      "source": "https://truyenc.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyenc/icon.png",
+      "description": "Đọc truyện chữ 18+ từ truyenc.com",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Truyện Nứng",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyennung/plugin.zip",
+      "version": 1,
+      "source": "https://truyennung.net",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyennung/icon.png",
+      "description": "Đọc truyện chữ tiếng Việt từ truyennung.net (truyện 18+).",
+      "type": "novel",
       "locale": "vi_VN",
       "tag": "nsfw"
     },

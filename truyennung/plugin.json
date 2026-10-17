@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "Truyện Nứng",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://truyennung.net",
+    "description": "Đọc truyện chữ tiếng Việt từ truyennung.net (truyện 18+).",
+    "locale": "vi_VN",
+    "regexp": "(https?://)?(www\\.)?truyennung\\.net/.+",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://truyennung.net",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 500
+  }
+}
