@@ -89,6 +89,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "idofap",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idolfap/plugin.zip",
+      "version": 1,
+      "source": "",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idolfap/icon.png",
+      "description": "Video ngắn và ảnh, tự config",
+      "type": "video",
+      "locale": "en_US",
+      "tag": "nsfw"
+    },
+    {
       "name": "JavHD",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/javhd/plugin.zip",

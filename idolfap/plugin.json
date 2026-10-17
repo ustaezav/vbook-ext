@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "name": "idofap",
+    "author": "vBook",
+    "version": 1,
+    "source": "",
+    "description": "Video ngắn và ảnh, tự config",
+    "locale": "en",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền KR",
+      "default": "https://example.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "DOMAIN2": {
+      "title": "Tên miền JP",
+      "default": "https://example.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 0
+  }
+}
