@@ -29,6 +29,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "ASMR Moon",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/asmrmoon/plugin.zip",
+      "version": 2,
+      "source": "https://asmrmoon.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/asmrmoon/icon.png",
+      "description": "Nghe/xem ASMR online từ asmrmoon.com (中/日韩/English). Tự nhận audio hay video cho từng album, không cần đăng nhập.",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "AVDB",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/avdb/plugin.zip",

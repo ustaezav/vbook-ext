@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "ASMR Moon",
+    "author": "ustaezav",
+    "version": 2,
+    "source": "https://asmrmoon.com",
+    "description": "Nghe/xem ASMR online từ asmrmoon.com (中/日韩/English). Tự nhận audio hay video cho từng album, không cần đăng nhập.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?asmrmoon\\.com/.+",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://asmrmoon.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 100
+  }
+}
