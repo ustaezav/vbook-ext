@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Banshanren",
     "author": "ustaezav",
-    "version": 2,
+    "version": 3,
     "source": "https://www.banshanren.com",
     "description": "Đọc truyện chữ tiếng Trung từ 搬山人小说网 (banshanren.com)",
     "locale": "zh_CN",
@@ -11,6 +11,7 @@
     "nsfw": true
   },
   "script": {
+    "config": "thumb_settings.js",
     "home": "home.js",
     "genre": "genre.js",
     "search": "search.js",
