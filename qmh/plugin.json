@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "QMH",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://qmhv3.cc",
+    "description": "Xem phim online chất lượng cao tại QMH.",
+    "locale": "vi_VN",
+    "regexp": "^(https?://)?(www\\.)?qmhv3\\.cc/watch/[^\\s]+$",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "subtitle": "Đổi khi QMH đổi tên miền phụ",
+      "default": "https://qmhv3.cc",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

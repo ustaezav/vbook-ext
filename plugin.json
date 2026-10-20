@@ -197,6 +197,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "QMH",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/qmh/plugin.zip",
+      "version": 1,
+      "source": "https://qmhv3.cc",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/qmh/icon.png",
+      "description": "Xem phim online chất lượng cao tại QMH.",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "sinodan",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sinodan/plugin.zip",
@@ -241,6 +253,30 @@
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyennung/icon.png",
       "description": "Đọc truyện chữ tiếng Việt từ truyennung.net (truyện 18+).",
       "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Viet69",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/viet69/plugin.zip",
+      "version": 1,
+      "source": "https://viet69.be",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/viet69/icon.png",
+      "description": "Xem video tổng hợp từ Viet69.",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "VLXX",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/vlxx/plugin.zip",
+      "version": 1,
+      "source": "https://vlxx.phd",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/vlxx/icon.png",
+      "description": "Xem phim online, cập nhật liên tục. Nếu domain đổi, sửa trong config.",
+      "type": "video",
       "locale": "vi_VN",
       "tag": "nsfw"
     },
