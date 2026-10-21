@@ -209,6 +209,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Setoico",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/setoico/plugin.zip",
+      "version": 1,
+      "source": "https://x.sextoico.blog",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/setoico/icon.png",
+      "description": "Xem phim online, cập nhật liên tục.",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "sinodan",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sinodan/plugin.zip",

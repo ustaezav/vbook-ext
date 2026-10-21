@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Setoico",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://x.sextoico.blog",
+    "description": "Xem phim online, cập nhật liên tục.",
+    "locale": "vi_VN",
+    "regexp": "(https?://)?(www\\.)?x\\.sextoico\\.blog/phim/[^/?#]+.*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://x.sextoico.blog",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
