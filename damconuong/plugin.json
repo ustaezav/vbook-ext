@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "name": "Dâm Cô Nương",
+    "name": "DamCoNuong",
     "author": "ustaezav",
     "version": 1,
     "source": "https://damconuong.win",
-    "description": "Đọc truyện tranh 18+ trên Dâm Cô Nương.",
+    "description": "Đọc truyện tranh 18+ trên damconuong.",
     "locale": "vi",
     "regexp": "(https?://)?(www\\.)?damconuong\\.win/truyen/[^/]+/?$",
     "type": "comic",
