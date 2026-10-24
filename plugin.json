@@ -293,6 +293,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "X Media",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/x-media/plugin.zip",
+      "version": 1,
+      "source": "https://x.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/x-media/icon.png",
+      "description": "Duyệt ảnh và video ngắn trong bài đăng của người dùng X/Twitter qua FxTwitter API.",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "XBookCN",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/xbookcn/plugin.zip",

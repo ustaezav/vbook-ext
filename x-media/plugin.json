@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "X Media",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://x.com",
+    "description": "Duyệt ảnh và video ngắn trong bài đăng của người dùng X/Twitter qua FxTwitter API.",
+    "locale": "vi",
+    "regexp": "(https?://)?(www\\.)?(x|twitter)\\.com/[A-Za-z0-9_]+/status/\\d+.*",
+    "type": "comic",
+    "nsfw": true
+  },
+  "script": {
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "USERS": {
+      "title": "Users",
+      "subtitle": "Thêm user mới tại đây.",
+      "default": "[\"TUZAllIBABY\",\"whiteplace_1\",\"Oldmuyang\",\"WhisperFrame\",\"Naiyeximilu\",\"awdydbb\",\"yuyugan798\",\"galaxyrita_\",\"KicoQAQ\",\"mocck0216\",\"FXHMRW\",\"tudomiao\",\"1cd0DYmqhr2833\",\"TianxinKitten\",\"ReneeDoll00\",\"Dirtymom09\",\"qianqianluoluo\",\"qvq9111\"]",
+      "mode": "list",
+      "format": "text"
+    }
+  }
+}
