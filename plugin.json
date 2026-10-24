@@ -101,6 +101,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Dâm Cô Nương",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/damconuong/plugin.zip",
+      "version": 1,
+      "source": "https://damconuong.win",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/damconuong/icon.png",
+      "description": "Đọc truyện tranh 18+ trên Dâm Cô Nương.",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "idofap",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idofap/plugin.zip",
