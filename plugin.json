@@ -257,6 +257,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Supjav",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/supjav/plugin.zip",
+      "version": 1,
+      "source": "https://supjav.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/supjav/icon.png",
+      "description": "Xem phim Nhật online từ Supjav. Đổi mạng hoặc bật VPN 1.1.1.1 nếu không thể load.",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "TruyenC",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyenc/plugin.zip",

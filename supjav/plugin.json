@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Supjav",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://supjav.com",
+    "description": "Xem phim Nhật online từ Supjav. Đổi mạng hoặc bật VPN 1.1.1.1 nếu không thể load.",
+    "locale": "vi_VN",
+    "regexp": "(https?://)?(www\\.)?supjav\\.com/.*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://supjav.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
