@@ -227,7 +227,7 @@
       "version": 1,
       "source": "https://wap.po18me.com",
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/po18/icon.png",
-      "description": "Đọc truyện chữ 18+ tiếng Trung từ PO18 脸红心跳 (wap.po18me.com)",
+      "description": "Đọc truyện chữ tiếng Trung từ PO18 脸红心跳",
       "type": "novel",
       "locale": "zh_CN",
       "tag": "nsfw"
