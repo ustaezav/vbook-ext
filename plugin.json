@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "2048AI",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/2048ai/plugin.zip",
+      "version": 3,
+      "source": "https://2048ai.vip",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/2048ai/icon.png",
+      "description": "Xem short drama và video AI từ 2048AI.",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "91Porna Shorts",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/91porna-shorts/plugin.zip",

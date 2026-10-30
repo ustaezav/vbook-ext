@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "2048AI",
+    "author": "ustaezav",
+    "version": 3,
+    "source": "https://2048ai.vip",
+    "description": "Xem short drama và video AI từ 2048AI.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?(2048ai\\.vip|madouai\\.xyz)/(short-dramas/[^/]+/episodes/[^/?#]+|videos/[^/?#]+).*",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://2048ai.vip",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 300
+  }
+}
