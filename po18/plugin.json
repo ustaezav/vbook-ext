@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "PO18",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://wap.po18me.com",
+    "description": "Đọc truyện chữ 18+ tiếng Trung từ PO18 脸红心跳 (wap.po18me.com)",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(wap\\.|www\\.)?po18me\\.com/novel/[0-9]+\\.html",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "config": "thumb_settings.js",
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://wap.po18me.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 300
+  }
+}
