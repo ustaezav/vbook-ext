@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "Novels.com.tw",
+    "author": "ustaezav",
+    "version": 5,
+    "source": "https://www.novels.com.tw",
+    "description": "Đọc truyện chữ phồn thể tại 繁體小說. Lần đầu cần mở trang nguồn trong trình duyệt của app để vượt Cloudflare.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?novels\\.com\\.tw/.+",
+    "type": "novel",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "subtitle": "Đổi khi trang đổi tên miền; cần giữ nguyên tiền tố www",
+      "default": "https://www.novels.com.tw",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 1,
+    "delay": 800
+  }
+}
