@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "NiaCG Video",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.niacg.com",
+    "description": "Xem phim từ niacg.com",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?niacg\\.com/(moehome-(19|20|21)-[0-9]+\\.html|showinfo-(19|20|21)-[0-9]+-[0-9]+\\.html)",
+    "type": "video",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://www.niacg.com",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 200
+  }
+}

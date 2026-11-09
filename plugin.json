@@ -221,6 +221,30 @@
       "tag": "nsfw"
     },
     {
+      "name": "NiaCG",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/niacg-comic/plugin.zip",
+      "version": 1,
+      "source": "https://www.niacg.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/niacg-comic/icon.png",
+      "description": "Đọc truyện tranh và xem ảnh từ niacg.com",
+      "type": "comic",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "NiaCG Video",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/niacg-video/plugin.zip",
+      "version": 1,
+      "source": "https://www.niacg.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/niacg-video/icon.png",
+      "description": "Xem phim từ niacg.com",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Novels TW",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/novelscomtw/plugin.zip",
@@ -317,7 +341,7 @@
       "tag": "nsfw"
     },
     {
-      "name": "Truyện Nứng",
+      "name": "Truyện Nung",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/truyennung/plugin.zip",
       "version": 1,
