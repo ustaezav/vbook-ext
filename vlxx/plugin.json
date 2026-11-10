@@ -2,8 +2,8 @@
   "metadata": {
     "name": "VLXX",
     "author": "ustaezav",
-    "version": 1,
-    "source": "https://vlxx.phd",
+    "version": 2,
+    "source": "https://vlxx.app",
     "description": "Xem phim online, cập nhật liên tục. Nếu domain đổi, sửa trong config.",
     "locale": "vi_VN",
     "regexp": "(https?://)?(www\\.)?vlxx\\.[a-z]{2,}/video/[^/]+/[0-9]+/?.*",
@@ -22,7 +22,7 @@
   "config": {
     "DOMAIN": {
       "title": "Domain",
-      "default": "https://vlxx.phd",
+      "default": "https://vlxx.app",
       "mode": "input",
       "format": "text"
     }
