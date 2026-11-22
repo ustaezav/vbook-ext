@@ -89,6 +89,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "Cool18 Forum",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-forum/plugin.zip",
+      "version": 1,
+      "source": "https://www.cool18.com/bj",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-forum/icon.png",
+      "description": "Đọc diễn đàn cool18.com",
+      "type": "forum",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Cool18 Images",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/cool18-images/plugin.zip",

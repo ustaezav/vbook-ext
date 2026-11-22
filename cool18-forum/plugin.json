@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "name": "Cool18 Forum",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://www.cool18.com/bj",
+    "description": "Đọc diễn đàn cool18.com",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?([a-z0-9]+\\.)?cool18\\.com/bj/index\\.php\\?.*act=threadview.*",
+    "type": "forum",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "posts": "posts.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.cool18.com/bj",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
