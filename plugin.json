@@ -137,6 +137,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "HuangGuoAI",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/huangguoai/plugin.zip",
+      "version": 1,
+      "source": "https://huangguoai.com",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/huangguoai/icon.png",
+      "description": "Xem AI short drama HuangGuo.",
+      "type": "video",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "idofap",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/idofap/plugin.zip",
@@ -380,8 +392,8 @@
       "name": "VLXX",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/vlxx/plugin.zip",
-      "version": 2,
-      "source": "https://vlxx.app",
+      "version": 3,
+      "source": "https://vlxx.net",
       "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/vlxx/icon.png",
       "description": "Xem phim online, cập nhật liên tục. Nếu domain đổi, sửa trong config.",
       "type": "video",

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "HuangGuoAI",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://huangguoai.com",
+    "description": "Xem AI short drama HuangGuo.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?(www\\.)?huangguoai\\.com/video/\\d+(/ep-\\d+)?/?",
+    "type": "video",
+    "nsfw": true,
+    "encrypt": true
+  },
+  "script": {
+    "explore": "explore.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://huangguoai.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
