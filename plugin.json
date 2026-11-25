@@ -137,6 +137,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "HaijiaoLove",
+      "author": "Chanhnh",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/haijiaolove/plugin.zip",
+      "version": 1,
+      "source": "",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/haijiaolove/icon.png",
+      "description": "Đọc truyện từ HaijiaoLove",
+      "type": "news",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    },
+    {
       "name": "HuangGuoAI",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/huangguoai/plugin.zip",
