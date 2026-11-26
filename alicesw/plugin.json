@@ -2,11 +2,11 @@
   "metadata": {
     "name": "AliceSW",
     "author": "ustaezav",
-    "version": 2,
+    "version": 3,
     "source": "https://www.alicesw.com",
     "description": "Đọc truyện chữ tiếng Trung trên AliceSW.",
     "locale": "zh_CN",
-    "regexp": "(https?://)?(www\\.)?(alicesw\\.(com|tw)|asw5\\.cc)/(novel|book)/.+",
+    "regexp": "(https?://)?(www\\.)?(alicesw\\.(com|tw)|alicesw\\d*\\.homes|asw5\\.cc)/(books|read|novel|book)/.+",
     "type": "novel",
     "nsfw": true
   },
@@ -22,20 +22,56 @@
     "DOMAIN": {
       "title": "Tên miền",
       "default": "https://www.alicesw.com",
-      "values": ["https://www.alicesw.com", "https://alicesw.tw"],
+      "values": [
+        "https://www.alicesw.com",
+        "https://alicesw.tw",
+        "https://alicesw1.homes"
+      ],
       "mode": "select"
     },
-    "ORDER": {
-      "title": "Sắp xếp theo",
-      "subtitle": "Áp dụng cho danh sách thể loại, tag và tìm kiếm",
-      "default": "Cập nhật",
-      "values": ["Cập nhật", "Số chữ", "Lượt xem"],
+    "STATUS": {
+      "title": "Trạng thái",
+      "subtitle": "Lọc danh sách thể loại, tag và tìm kiếm",
+      "default": "Tất cả",
+      "values": [
+        "Tất cả",
+        "Đang ra",
+        "Hoàn thành"
+      ],
       "mode": "select"
     },
-    "ORDER_DIR": {
-      "title": "Thứ tự sắp xếp",
-      "default": "Giảm dần",
-      "values": ["Giảm dần", "Tăng dần"],
+    "SOURCE": {
+      "title": "Nguồn",
+      "subtitle": "Chỉ giữ truyện sáng tác gốc trên trang",
+      "default": "Tất cả",
+      "values": [
+        "Tất cả",
+        "Sáng tác gốc"
+      ],
+      "mode": "select"
+    },
+    "SORT": {
+      "title": "Sắp xếp",
+      "subtitle": "Thứ tự của danh sách thể loại, tag và tìm kiếm",
+      "default": "Tổng hợp",
+      "values": [
+        "Tổng hợp",
+        "Đọc nhiều",
+        "Yêu thích nhiều",
+        "Cập nhật",
+        "Mới đăng"
+      ],
+      "mode": "select"
+    },
+    "RANK_PERIOD": {
+      "title": "Chu kỳ bảng xếp hạng",
+      "subtitle": "Áp dụng cho các tab bảng xếp hạng ở trang chủ",
+      "default": "Tuần",
+      "values": [
+        "Ngày",
+        "Tuần",
+        "Tháng"
+      ],
       "mode": "select"
     }
   }

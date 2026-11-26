@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Bunkr Videos",
     "author": "ustaezav",
-    "version": 1,
-    "source": "https://balbums.st",
+    "version": 2,
+    "source": "https://bunkr-albums.org",
     "description": "Xem video từ các album Bunkr",
     "locale": "global",
-    "regexp": "(https?://)?(www\\.)?((balbums\\.st|bunkr-albums\\.io)/.*|bunkr\\.[a-z]+/a/.+)",
+    "regexp": "(https?://)?(www\\.)?((bunkr-albums\\.org|balbums\\.st|bunkr-albums\\.io)/.*|bunkr\\.[a-z]+/a/.+)",
     "type": "video",
     "nsfw": true
   },
@@ -21,7 +21,7 @@
   "config": {
     "DOMAIN": {
       "title": "Domain",
-      "default": "https://balbums.st",
+      "default": "https://bunkr-albums.org",
       "mode": "input",
       "format": "text"
     }
