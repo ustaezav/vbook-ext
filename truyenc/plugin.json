@@ -4,7 +4,7 @@
     "author": "ustaezav",
     "version": 1,
     "source": "https://truyenc.com",
-    "description": "Đọc truyện chữ 18+ từ truyenc.com",
+    "description": "Đọc truyện chữ",
     "locale": "vi_VN",
     "regexp": "(https?://)?(www\\.)?truyenc\\.com/truyen/.+",
     "type": "novel",

@@ -1,11 +1,11 @@
 {
   "metadata": {
     "name": "HaijiaoLove",
-    "author": "Chanhnh",
-    "version": 1,
+    "author": "community",
+    "version": 2,
     "description": "Đọc truyện từ HaijiaoLove",
     "locale": "zh-CN",
-    "regexp": "https://www.haijiaolove\\.[a-z]+/[a-z0-9]+/[0-9]+\\.html$",
+    "regexp": "http://www.haijiaolove\\.[a-z]+/[a-z0-9]+/[0-9]+\\.html$",
     "type": "news",
     "nsfw": true
   },

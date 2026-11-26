@@ -2,9 +2,9 @@
   "metadata": {
     "name": "Truyện Nung",
     "author": "ustaezav",
-    "version": 1,
+    "version": 2,
     "source": "https://truyennung.net",
-    "description": "Đọc truyện chữ tiếng Việt từ truyennung.net (truyện 18+).",
+    "description": "Đọc truyện chữ tiếng Việt",
     "locale": "vi_VN",
     "regexp": "(https?://)?(www\\.)?truyennung\\.net/.+",
     "type": "novel",

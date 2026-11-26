@@ -4,7 +4,7 @@
     "author": "ustaezav",
     "version": 2,
     "source": "https://meosss.com",
-    "description": "Đọc truyện tranh 18+ trên Meosss",
+    "description": "Đọc truyện tranh trên Meosss",
     "locale": "vi",
     "regexp": "(https?://)?(www\\.)?meosss\\.com/truyen/.+",
     "type": "comic",

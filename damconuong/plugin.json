@@ -2,9 +2,9 @@
   "metadata": {
     "name": "DamCoNuong",
     "author": "ustaezav",
-    "version": 1,
+    "version": 2,
     "source": "https://damconuong.win",
-    "description": "Đọc truyện tranh 18+ trên damconuong.",
+    "description": "Đọc truyện tranh trên damconuong.",
     "locale": "vi",
     "regexp": "(https?://)?(www\\.)?damconuong\\.win/truyen/[^/]+/?$",
     "type": "comic",
