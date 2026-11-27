@@ -341,18 +341,6 @@
       "tag": "nsfw"
     },
     {
-      "name": "Sehuatang",
-      "author": "ustaezav",
-      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sehuatang-forum/plugin.zip",
-      "version": 5,
-      "source": "https://www.sehuatang.org",
-      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sehuatang-forum/icon.png",
-      "description": "Xem ảnh và truyện từ diễn đàn 98堂.",
-      "type": "comic",
-      "locale": "zh_CN",
-      "tag": "nsfw"
-    },
-    {
       "name": "Setoico",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/setoico/plugin.zip",
