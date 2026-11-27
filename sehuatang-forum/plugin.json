@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Sehuatang",
+    "author": "ustaezav",
+    "version": 5,
+    "source": "https://www.sehuatang.org",
+    "description": "Xem ảnh và truyện từ diễn đàn 98堂.",
+    "locale": "zh_CN",
+    "regexp": "(https?://)?([a-z0-9]+\\.)?sehuatang\\.(org|net)/forum\\.php\\?[^\\s]*mod=viewthread[^\\s]*",
+    "type": "comic",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://www.sehuatang.org",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

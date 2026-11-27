@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "name": "JKF Forum",
+    "author": "ustaezav",
+    "version": 1,
+    "source": "https://jkforum.net",
+    "description": "Đọc bài viết của diễn đàn JKF 捷克論壇.",
+    "regexp": "(https?://)?([a-z0-9]+\\.)?jkforum\\.net/(p/)?thread-[^\\s]+",
+    "locale": "zh_TW",
+    "type": "forum",
+    "nsfw": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "posts": "posts.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "default": "https://jkforum.net",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

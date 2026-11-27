@@ -221,6 +221,18 @@
       "tag": "nsfw"
     },
     {
+      "name": "JKF Forum",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/jkforum/plugin.zip",
+      "version": 1,
+      "source": "https://jkforum.net",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/jkforum/icon.png",
+      "description": "Đọc bài viết của diễn đàn JKF 捷克論壇.",
+      "type": "forum",
+      "locale": "zh_TW",
+      "tag": "nsfw"
+    },
+    {
       "name": "LoveCutes Images",
       "author": "ustaezav",
       "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/lovecutes-images/plugin.zip",
@@ -326,6 +338,18 @@
       "description": "Xem phim online chất lượng cao tại QMH.",
       "type": "video",
       "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Sehuatang",
+      "author": "ustaezav",
+      "path": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sehuatang-forum/plugin.zip",
+      "version": 5,
+      "source": "https://www.sehuatang.org",
+      "icon": "https://raw.githubusercontent.com/ustaezav/vbook-ext/master/sehuatang-forum/icon.png",
+      "description": "Xem ảnh và truyện từ diễn đàn 98堂.",
+      "type": "comic",
+      "locale": "zh_CN",
       "tag": "nsfw"
     },
     {
